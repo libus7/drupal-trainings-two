@@ -5,6 +5,7 @@ body {
   background: #292929;
 }
 
+
 #page,
 #main-wrapper,
 .region-primary-menu .menu-item a.is-active,
@@ -26,7 +27,7 @@ body {
 }
 
 #navbar-main {
-  background-color: #1d84c3;
+  background-color: red;
 }
 
 a,
